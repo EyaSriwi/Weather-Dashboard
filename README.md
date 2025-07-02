@@ -14,7 +14,7 @@ This project aims to:
 - Preprocess and model the data using Power Query and DAX
 - Visualize multiple **Key Performance Indicators** (KPIs) per city
 - Offer users an intuitive way to monitor, compare, and analyze weather patterns across locations
-![Dashboard Preview](Images/preview.png)
+
 
 ---
 
