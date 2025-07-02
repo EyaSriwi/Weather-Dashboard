@@ -1,6 +1,6 @@
 **Weather Forecast Dashboard**
 
-![Dashboard Preview](Capture d’écran 2025-07-02 090502.png)
+![Dashboard Preview](image.png)
 
 Welcome to the **Weather Forecast Dashboard** project! This dynamic and interactive dashboard provides real-time and historical weather data analytics across multiple cities using live API integration. Built with **Power BI**, the dashboard delivers insightful **KPIs** including humidity, wind speed, UV index, visibility, pressure, and precipitation, empowering users to understand and visualize weather trends efficiently.
 
